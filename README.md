@@ -29,3 +29,9 @@ Este repositorio consisten en una serie de archivos para facilitar el deployment
     git clone https://github.com/AleG911/traefik-dot-files.git
     ```
 4. Modificar el archivo **.env** con el email asociado a la cuenta de Cloudflare, el API Key y el usuario generado previamente.
+
+
+5. Arrancar el contenedor
+    ```bash
+    docker-compose up -d 
+    ```
