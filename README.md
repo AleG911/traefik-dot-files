@@ -1,6 +1,6 @@
 # Traefik v2
 
-## Este repositorio consisten en una serie de archivos para facilitar el deployment de traefik en pocos minutos. Este contempla configuración dinámica y estática. Además de algunos middlewares básicos deseables.
+Este repositorio consisten en una serie de archivos para facilitar el deployment de traefik en pocos minutos. Este contempla configuración dinámica y estática. Además de algunos middlewares básicos deseables.
 
 ---
 
